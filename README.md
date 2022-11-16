@@ -2,7 +2,7 @@
 
 ## 规范
 
-请严格遵守[《项目规范》](https://wudian.coding.net/p/wiki/d/wiki/git/tree/master/2.0.0%20%E5%89%8D%E7%AB%AF%E8%A7%84%E8%8C%83/2.6.0%20Vue%E9%A1%B9%E7%9B%AE%E8%A7%84%E8%8C%83)
+请严格遵守[《项目规范》](https://webghan.github.io/gaohan-note/guide/style-guide.html)
 
 
 ## 运行和发布
@@ -108,7 +108,7 @@ iconfont.css 文件里的`@font-face`请用如下代码替换。
 
 ### 多色图标
 
-多色图标参考：https://panjiachen.github.io/vue-element-admin-site/zh/guide/advanced/icon.html#%E5%9B%BE%E6%A0%87
+多色图标参考：https://panjiachen.github.io/vue-element-admin-site/zh/guide/advanced/icon.html
 
 
 ### 图片？还是图标？
@@ -155,7 +155,7 @@ use([
 
 ## 权限验证
 
-参考：[vue-element-admin 指南](https://panjiachen.github.io/vue-element-admin-site/zh/guide/essentials/permission.html#%E6%9D%83%E9%99%90%E9%AA%8C%E8%AF%81)
+参考：[vue-element-admin 指南](https://panjiachen.github.io/vue-element-admin-site/zh/guide/essentials/permission.html)
 
 建议使用全局权限判断函数：
 
